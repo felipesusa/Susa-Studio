@@ -1,0 +1,186 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    max-width: 100%;
+}
+header{
+    padding-bottom: 30px;
+    background-color: black;
+    top: 0;
+    z-index: 1;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+
+}
+
+
+.menu{
+    font-family: 'Cinzel', serif;
+     text-decoration: none;
+     display: flex;
+     gap: 40px;
+
+    
+    
+
+}
+
+#base{
+    background-color: black;
+    padding-top: 200px;
+    padding-bottom: 40px;
+}
+
+a{
+    text-decoration: none; color: white;
+}
+
+.Fondo1{
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(../img/Behind-the-scenes-of-a-video-production-1085414.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 400px;
+    position: relative;
+    font-weight: 700;
+}
+.Fondo1 p{
+    position:absolute;
+    top: 300px;
+    left: 700px;
+ 
+}
+
+.azul{
+    margin: 60px;
+ background-image: url(../img/Camera-operator-1280623.jpg); 
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ color: white;
+ text-align: left; 
+ padding: 80px; 
+ position: relative;
+}
+.azul h2{
+    padding-left: 1000px;
+    font-size: 50px;
+    text-transform: initial;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+.azul p{
+    padding-left: 1000px;
+font-size: 32px;
+font-family: 'Montserrat', sans-serif;
+font-weight: 300;
+}
+
+
+.card{
+    font-family: 'Montserrat', sans-serif;
+    width: 1903px;
+    height: 346px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    position: relative;
+}
+
+.card h2{
+    font-size: 50px;
+    padding-top: 30px;
+    padding-left: 300px;
+    font-weight: 700;
+}
+.card p{
+    font-size: 32px;
+    padding-left: 300px;
+    font-weight: 300;
+}
+
+
+.primera{
+    color: white; text-align: center;
+}
+
+.card img{
+    width: 840px;
+    height: 346px;
+    position:absolute;
+    left: 1000px;
+}
+.card h4{
+    background-color: black;
+    color: white;
+    font-size: 22px;
+    padding: 7px;
+    position:absolute;
+    top: 250px;
+    left: 600px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+.azul h4{
+    background-color: black;
+    color: white;
+    font-size: 22px;
+    padding: 7px;
+    position:absolute;
+    top: 450px;
+    left: 1400px;  
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+.footer{
+    height: 407px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    position: relative;
+    
+}
+.footer h3{
+  text-align: center; 
+}
+.bogota{
+    padding-top: 280px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+.instagram{
+    width: 40px;
+    height: 40px;
+    position:absolute;
+    top: 200px;
+    left: 850px;
+    
+}
+.youtube{
+    width: 70px;
+    height: 70px;
+    position:absolute;
+    top: 185px;
+    left: 920px;
+    
+}
+.linkedin{
+    width: 40px;
+    height: 40px;
+    position:absolute;
+    top: 200px;
+    left: 1020px;
+}
+
+    
+
+
+
